@@ -1,6 +1,0 @@
-d:\documents\visual studio 2015\Projects\Encoded\bin\Debug\Encoded.exe.config
-d:\documents\visual studio 2015\Projects\Encoded\bin\Debug\Encoded.exe
-d:\documents\visual studio 2015\Projects\Encoded\bin\Debug\Encoded.pdb
-d:\documents\visual studio 2015\Projects\Encoded\obj\Debug\Encoded.csprojResolveAssemblyReference.cache
-d:\documents\visual studio 2015\Projects\Encoded\obj\Debug\Encoded.exe
-d:\documents\visual studio 2015\Projects\Encoded\obj\Debug\Encoded.pdb
