@@ -4,3 +4,9 @@ d:\documents\visual studio 2015\Projects\Encoded\bin\Debug\Encoded.pdb
 d:\documents\visual studio 2015\Projects\Encoded\obj\Debug\Encoded.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2015\Projects\Encoded\obj\Debug\Encoded.exe
 d:\documents\visual studio 2015\Projects\Encoded\obj\Debug\Encoded.pdb
+C:\Users\win 7\Documents\GitHub\encoded\bin\Debug\Encoded.exe.config
+C:\Users\win 7\Documents\GitHub\encoded\bin\Debug\Encoded.exe
+C:\Users\win 7\Documents\GitHub\encoded\bin\Debug\Encoded.pdb
+C:\Users\win 7\Documents\GitHub\encoded\obj\Debug\Encoded.csproj.CoreCompileInputs.cache
+C:\Users\win 7\Documents\GitHub\encoded\obj\Debug\Encoded.exe
+C:\Users\win 7\Documents\GitHub\encoded\obj\Debug\Encoded.pdb

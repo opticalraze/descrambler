@@ -12,15 +12,22 @@ namespace Encoded
         {
             string code = null;
             string encoded = null;
+            int length;
 
-            Console.WriteLine("Welcome to Decoded v1.5");
+            Console.WriteLine("Welcome to Encoded v1.0");
             Console.WriteLine("Use '!' to exit");
             while (true)
             {
-                Console.WriteLine("Enter what you would like to decode:");
+                Console.WriteLine("Enter what you would like to encode:");
                 code = Console.ReadLine().ToLower();
+                length = code.Length;
                 encoded = null;
 
+                //Console.WriteLine(length);
+                if (code != "")
+                {
+
+                }
                 if (code == "!")
                 {
                     Environment.Exit(0);
@@ -35,9 +42,100 @@ namespace Encoded
                 }
                 else
                 {
+                    for (int i = 0; i < length; i++)
+                    {
+                        char x = code[i];
 
+                        switch (x)
+                        {
+                            case 'q':
+                                encoded += "a";
+                                break;
+                            case 'w':
+                                encoded += "b";
+                                break;
+                            case 'e':
+                                encoded += "c";
+                                break;
+                            case 'r':
+                                encoded += "d";
+                                break;
+                            case 't':
+                                encoded += "e";
+                                break;
+                            case 'y':
+                                encoded += "f";
+                                break;
+                            case 'u':
+                                encoded += "g";
+                                break;
+                            case 'i':
+                                encoded += "h";
+                                break;
+                            case 'o':
+                                encoded += "i";
+                                break;
+                            case 'p':
+                                encoded += "j";
+                                break;
+                            case 'a':
+                                encoded += "k";
+                                break;
+                            case 's':
+                                encoded += "l";
+                                break;
+                            case 'd':
+                                encoded += "m";
+                                break;
+                            case 'f':
+                                encoded += "n";
+                                break;
+                            case 'g':
+                                encoded += "o";
+                                break;
+                            case 'h':
+                                encoded += "p";
+                                break;
+                            case 'j':
+                                encoded += "q";
+                                break;
+                            case 'k':
+                                encoded += "r";
+                                break;
+                            case 'l':
+                                encoded += "s";
+                                break;
+                            case 'z':
+                                encoded += "t";
+                                break;
+                            case 'x':
+                                encoded += "u";
+                                break;
+                            case 'c':
+                                encoded += "v";
+                                break;
+                            case 'v':
+                                encoded += "w";
+                                break;
+                            case 'b':
+                                encoded += "x";
+                                break;
+                            case 'n':
+                                encoded += "y";
+                                break;
+                            case 'm':
+                                encoded += "z";
+                                break;
+                            case ' ':
+                                encoded += " ";
+                                break;
+                            default:
+                                encoded += "?";
+                                break;
+                        }
+                    }
                 }
-                Console.WriteLine("The encoded message is: {0}", encoded);
+                Console.WriteLine("The word is: {0}", encoded);
             }
         }
     }
