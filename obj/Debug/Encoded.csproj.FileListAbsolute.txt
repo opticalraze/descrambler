@@ -10,3 +10,6 @@ C:\Users\win 7\Documents\GitHub\encoded\bin\Debug\Encoded.pdb
 C:\Users\win 7\Documents\GitHub\encoded\obj\Debug\Encoded.csproj.CoreCompileInputs.cache
 C:\Users\win 7\Documents\GitHub\encoded\obj\Debug\Encoded.exe
 C:\Users\win 7\Documents\GitHub\encoded\obj\Debug\Encoded.pdb
+D:\Documents\GitHub\encoded\bin\Debug\Encoded.exe.config
+D:\Documents\GitHub\encoded\obj\Debug\Encoded.exe
+D:\Documents\GitHub\encoded\obj\Debug\Encoded.pdb
