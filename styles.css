@@ -46,6 +46,10 @@ body {
   font-family: 'Roboto', sans-serif;
   padding-right: 5px;
 }
+.footer a:hover {
+  color: #F2F1EF;
+  text-decoration: underline;
+}
 
 .nav {
   margin-right: 10px;
@@ -63,6 +67,10 @@ body {
 .nav a:hover {
   color: black;
   text-decoration: underline;
+}
+
+a {
+  color: black;
 }
 
 /* Code block */
